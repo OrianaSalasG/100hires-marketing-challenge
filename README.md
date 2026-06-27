@@ -45,40 +45,34 @@ I'm officially set up and look forward to the next stage of the project.
 
 ## Phase 2: My Research Process & Data Collection (AI-Powered SEO)
 
-### 📂 What I Actually Collected & Organized
-To tackle this challenge, I didn't want to just copy and paste generic ideas from ChatGPT. I wanted to deeply understand how the absolute best practitioners in the world are scaling organic traffic right now through automation. 
+### Technical Workflow & API Extraction
+To build this dataset, I leveraged Claude Code within Cursor to automate data collection, ensuring a scalable process rather than relying on manual copy-pasting. 
 
-I set up my workspace inside Cursor and built an organized dataset using the exact folder structure required for this technical test:
-* **`research/sources.md`**: I created a master directory acting as a clean index, mapping out the official profiles, authority timelines, and core focus areas of my 10 sources.
-* **`research/linkedin-posts/`**: I went to LinkedIn and extracted high-signal posts, frameworks, and raw text guides written by active practitioners.
-* **`research/youtube-transcripts/`**: I pulled the full text transcripts from deep-dive video tutorials to study their over-the-shoulder workflows and technical tool stacks.
+* **YouTube Transcripts:** I prompted Claude Code to utilize transcription APIs (such as Supadata and open-source Python libraries) to extract full text from deep-dive video tutorials by experts like Bernard Huang and Gael Breton. These raw transcripts were automatically formatted and saved into `/research/youtube-transcripts/`.
+* **LinkedIn Posts & Articles:** I instructed the AI to scrape and structure recent frameworks, posts, and text guides from the active practitioners on my list. The extracted data was organized by author into `/research/linkedin-posts/`.
+* **Index Creation:** I maintained a master directory in `/research/sources.md` to map out the official profiles, authority timelines, and core focus areas of my 10 sources.
 
----
+### Strategic Rationale: Why I Handpicked These 10 Experts
+When deciding who to research, I realized that automated SEO with AI is a double-edged sword. If you only focus on speed, search engines penalize you. If you focus solely on perfect human writing, you cannot scale. I intentionally chose these experts to build a balanced, future-proof growth engine.
 
-### 🎯 My Strategic Rationale: Why I Handpicked These 10 Experts
+**Group 1: The Scalers (Driving Content Velocity)**
+A modern growth engine needs to know how to move incredibly fast. 
+* **Jake Ward:** I collected his frameworks on Programmatic SEO. He proves that you can launch thousands of structurally relevant pages using smart automation.
+* **Gael Breton:** I pulled metrics and case studies from his experiments. He shares raw, unfiltered ROI data on large websites built purely with AI, providing real-world performance benchmarks.
 
-When I was deciding who to research, I realized that automated SEO with AI is a double-edged sword. If you only focus on speed, search engines penalize you. If you only focus on perfect human writing, you can't scale. 
+**Group 2: The Evaluators (Protecting Search Authority)**
+Scaling with AI means nothing if a core algorithm update wipes out your traffic. These experts act as safety guardrails.
+* **Lily Ray:** I collected her documentation on search penalties. She is a leading authority on E-E-A-T guidelines, ensuring AI workflows stay safe.
+* **Kevin Indig:** I extracted his technical breakdowns of Core Algorithm updates to understand how search engines process automated layers.
 
-Because of this, I intentionally chose these 10 experts to build a balanced, future-proof growth engine. Here is exactly why I chose each one of them and what I set out to collect:
+**Group 3: The Data Scientists (Injecting Unique Value)**
+Generic AI text does not rank. I needed to learn how to make AI content sound deeply authoritative.
+* **Bernard Huang:** I collected his work on semantic density. His frameworks teach how to inject "Information Gain" to satisfy modern search intent models.
+* **Britney Muller:** I grabbed her machine learning and prompt engineering documentation to maximize my technical edge inside tools like Claude.
 
-#### 🚀 Group 1: The Scalers (Driving Content Velocity)
-I chose this first group because any modern growth engine needs to know how to move incredibly fast. 
-* **Jake Ward:** I collected his direct frameworks on Programmatic SEO. I chose him because he is the proof that you can launch thousands of structurally relevant pages using smart automation.
-* **Gael Breton:** I pulled metrics and case studies from his experiments. I chose him because he shares raw, unfiltered ROI data on large websites built purely with AI, giving me real-world performance benchmarks.
-
-#### 🛡️ Group 2: The Evaluators (Protecting Search Authority)
-I chose this second group to act as my safety guardrails. Scaling with AI means nothing if a core algorithm update wipes out your traffic overnight.
-* **Lily Ray:** I collected her documentation on search penalties. I chose her because she is the world's leading authority on E-E-A-T guidelines, and her insights ensure my AI workflows stay 100% safe.
-* **Kevin Indig:** I extracted his technical breakdowns of Core Algorithm updates. I selected him to understand how search engines process automated layers, allowing me to future-proof my content strategies.
-
-#### 🧠 Group 3: The Data Scientists (Injecting Unique Value)
-I chose these experts because generic AI text is boring and doesn't rank. I needed to learn how to make AI content sound deeply authoritative.
-* **Bernard Huang:** I collected his work on semantic density. I chose him because his frameworks teach me how to inject "Information Gain" so my content scores perfectly on modern search intent models.
-* **Britney Muller:** I grabbed her machine learning and prompt engineering documentation. I selected her to maximize my technical edge inside tools like Cursor and Claude, treating AI as an engineering partner.
-
-#### 📈 Group 4: The Growth Architects (Turning Traffic into Revenue)
-Finally, I chose this group because traffic is just a vanity metric if it doesn't align with actual user acquisition and conversion funnels.
-* **Eli Schwartz:** I collected his "Product-Led SEO" frameworks. I chose him to ensure that every automated content stream I deploy is directly tied to business growth and user intent.
-* **Ross Hudgens:** I pulled his Standard Operating Procedures (SOPs). I chose him because he cracks the operational code: how a single growth marketer can manage multiple AI pipelines through a "Human-in-the-loop" model.
-* **Cyrus Shepard:** I gathered his data on user interaction. I selected him because getting to page one is only half the battle; he teaches me how to optimize AI metadata to make real humans click.
-* **Lidia Infante:** I collected her scaling playbooks. I chose her to understand how to take a successful AI content machine and seamlessly localize it across international markets.
+**Group 4: The Growth Architects (Turning Traffic into Revenue)**
+Traffic is a vanity metric if it does not align with user acquisition.
+* **Eli Schwartz:** I collected his "Product-Led SEO" frameworks to tie automated content directly to business growth.
+* **Ross Hudgens:** I pulled his SOPs because he cracks the operational code of managing AI pipelines through a "Human-in-the-loop" model.
+* **Cyrus Shepard:** I gathered his data on user interaction and optimizing AI metadata to make real humans click.
+* **Lidia Infante:** I collected her playbooks to understand how to take a successful AI content machine and localize it across international markets.

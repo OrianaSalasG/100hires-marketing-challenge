@@ -75,4 +75,4 @@ Traffic is a vanity metric if it does not align with user acquisition.
 * **Eli Schwartz:** I collected his "Product-Led SEO" frameworks to tie automated content directly to business growth.
 * **Ross Hudgens:** I pulled his SOPs because he cracks the operational code of managing AI pipelines through a "Human-in-the-loop" model.
 * **Cyrus Shepard:** I gathered his data on user interaction and optimizing AI metadata to make real humans click.
-* **Lidia Infante:** I collected her playbooks to understand how to take a successful AI content machine and localize it across international markets.
+* **Lidia Infante:** I collected her playbooks to understand how to take a successful AI content machine and localize it across international markets

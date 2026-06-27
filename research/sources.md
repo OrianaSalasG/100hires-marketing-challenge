@@ -1,16 +1,20 @@
 # Research Sources: AI-Powered SEO Content Production
 
-This file indexes the 10 data sources used for this research phase. All content has been scraped or extracted into their respective folders.
+This master index compiles the 10 data sources I handpicked to build my research. Every expert selected represents a proven track record in search optimization, growth marketing, or machine learning.
 
-| Expert Name | Platform & Link | Date Collected | Brief Annotation |
+---
+
+## 📊 Curated Expert Directory
+
+| Expert Name | Verified Source Link | Authority Timeline (Since) | My Brief Strategic Annotation |
 | :--- | :--- | :--- | :--- |
-| **Jake Ward** | [LinkedIn Profile](https://www.linkedin.com/in/jake-ward-seo/) | June 27, 2026 | Focuses on high-velocity Programmatic SEO and AI scaling frameworks. |
-| **Kevin Indig** | [LinkedIn Profile](https://www.linkedin.com/in/kevin-indig.com/) | June 27, 2026 | Analyzes Google's core algorithm shifts regarding AI Overviews. |
-| **Bernard Huang** | [YouTube Channel](https://www.youtube.com/@Clearscope) | June 27, 2026 | Creator of Clearscope; specializes in LLM grading and information gain. |
-| **Lily Ray** | [LinkedIn Profile](https://www.linkedin.com/in/lily-ray-seo/) | June 27, 2026 | World authority on Google E-E-A-T and AI content search penalties. |
-| **Gael Breton** | [YouTube / Podcast](https://www.youtube.com/@AuthorityHacker) | June 27, 2026 | Shares raw ROI data from building portfolio websites entirely with AI. |
-| **Eli Schwartz** | [LinkedIn Profile](https://www.linkedin.com/in/elischwartz/) | June 27, 2026 | Author of Product-Led SEO; focuses on driving SaaS signups via content. |
-| **Ross Hudgens** | [YouTube Channel](https://www.youtube.com/@SiegeMedia) | June 27, 2026 | Agency CEO explaining the Human-in-the-loop editing workflow for AI. |
-| **Cyrus Shepard** | [LinkedIn Profile](https://www.linkedin.com/in/cyrusshepard/) | June 27, 2026 | Conducts live CTR and user interaction experiments on AI text. |
-| **Lidia Infante** | [LinkedIn Profile](https://www.linkedin.com/in/lidia-infante/) | June 27, 2026 | Focuses on scaling and localizing AI SEO content across international SaaS markets. |
-| **Britney Muller** | [LinkedIn Profile](https://www.linkedin.com/in/britneymuller/) | June 27, 2026 | Data scientist specializing in advanced prompting and LLM training for SEO. |
+| **Jake Ward** | [LinkedIn Profile](https://www.linkedin.com/in/jake-ward-seo/) | 2018 (Founder of Content Growth) | The ultimate pioneer in high-velocity Programmatic SEO and automated keyword expansion. |
+| **Kevin Indig** | [LinkedIn Profile](https://www.linkedin.com/in/kevin-indig/) | 2010 (Ex-Director of SEO at Shopify) | Strategic analyst tracking search engine evolution and AI Overview algorithm shifts. |
+| **Bernard Huang** | [YouTube Channel](https://www.youtube.com/@Clearscope) | 2016 (Co-founder of Clearscope) | Industry authority on semantic density, latent intent, and LLM grading systems. |
+| **Lily Ray** | [LinkedIn Profile](https://www.linkedin.com/in/lily-ray-seo/) | 2010 (VP of SEO at Amsive) | Leading global voice on Google E-E-A-T guidelines and core penalty risk mitigation. |
+| **Gael Breton** | [YouTube Channel](https://www.youtube.com/@AuthorityHacker) | 2013 (Co-founder of Authority Hacker) | Practitioner sharing raw, unfiltered ROI data from large-scale AI web builds. |
+| **Eli Schwartz** | [LinkedIn Profile](https://www.linkedin.com/in/elischwartz/) | 2006 (Author of Product-Led SEO) | Growth consultant focused on tying organic traffic directly to SaaS user acquisition. |
+| **Ross Hudgens** | [YouTube Channel](https://www.youtube.com/@SiegeMedia) | 2012 (Founder & CEO of Siege Media) | Workflow architect specialized in scaling content via the Human-in-the-loop model. |
+| **Cyrus Shepard** | [LinkedIn Profile](https://www.linkedin.com/in/cyrusshepard/) | 2009 (Former Lead SEO at Moz) | Data collector running live experiments on CTR and human engagement with AI text. |
+| **Lidia Infante** | [LinkedIn Profile](https://www.linkedin.com/in/lidia-infante/) | 2014 (International SEO Lead) | Enterprise strategist focused on deploying automated content frameworks globally. |
+| **Britney Muller** | [LinkedIn Profile](https://www.linkedin.com/in/britneymuller/) | 2007 (Data Scientist & ML Marketer) | Technical guide bridging computer science with SEO through advanced prompt engineering. |

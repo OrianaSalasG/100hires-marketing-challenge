@@ -61,5 +61,6 @@ Through technical analysis of target content and simulated automated API extract
 ### Repository Infrastructure Added
 * `/research/sources.md`: Curated index of the top 10 experts, including publication timelines, platform locations, and critical annotations.
 * `/research/youtube-transcripts/`: Processed data extracts mapping exact technical scripts and data points from industry-leading case studies.
+* `/research/linkedin-posts/`: Manually collected and structured breakdowns of advanced B2B SaaS growth loops and data injection frameworks.
 
 *Everything is structured to lay the groundwork for a highly actionable, scalable SEO execution playbook.*

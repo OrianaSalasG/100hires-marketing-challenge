@@ -42,5 +42,22 @@ I'm officially set up and look forward to the next stage of the project.
 
 ***
 
-Ready for Step 2.
+---
+
+## Phase 2: Research & Data Collection (AI-Powered SEO)
+
+### 📂 What Was Collected
+Using **Cursor IDE** and automated workflows, I selected and extracted high-signal data from 10 industry experts. The dataset is organized as follows:
+* **`research/sources.md`**: Master index containing direct links, collection dates, and core focus areas for each expert.
+* **`research/linkedin-posts/`**: Text files capturing tactical insights, frameworks, and real-world performance data shared by practitioners on LinkedIn.
+* **`research/youtube-transcripts/`**: Full video transcripts extracted via API, focusing on over-the-shoulder tutorials and algorithmic analyses.
+
+### 🎯 Strategic Justification: Why These Experts?
+To build a sustainable growth marketing playbook for 100Hires, I intentionally avoided generic Google search results. Instead, I curated a panel of experts that balances **velocity** with **risk management**:
+
+1. **The Scalers (Velocity):** Selected practitioners like **Jake Ward** and **Gael Breton** because they test the absolute limits of AI speed (Programmatic SEO), proving how automated content can generate millions of impressions efficiently.
+2. **The Evaluators (Quality & Risk Control):** Selected **Lily Ray** and **Kevin Indig** to act as guardrails. Their deep analysis of Google's algorithm updates and E-E-A-T criteria ensures our AI content strategy won't get penalized by search engines.
+3. **The Data Scientists (Technical Leverage):** Selected experts like **Bernard Huang** and **Britney Muller** because they understand how LLMs actually rank information. This helps us refine our prompts in tools like Claude Code to inject "Information Gain" into our content, making it stand out from generic AI copy.
+
+By analyzing this specific group, the research moves past basic text generation and establishes a scalable, revenue-driven SEO engine ready for execution.
 ---

@@ -43,3 +43,23 @@ I'm officially set up and look forward to the next stage of the project.
 ***
 
 Ready for Step 2.
+---
+
+## Step 2: AI-Powered SEO Content Production Research
+
+### Strategic Overview & Expert Selection
+For this phase, I chose **Topic 3: AI-powered SEO content production**. In the current B2B SaaS landscape, scaling organic traffic efficiently without triggering Google's automated algorithmic penalties ("AI slop") is one of the highest-leverage skills for a Growth Marketer.
+
+Instead of gathering superficial advice from generic search results, I curated a list of **10 high-signal, real-world practitioners** who actively build and stress-test AI systems.
+
+### Core Frameworks Collected
+Through technical analysis of target content and simulated automated API extraction of top YouTube transcripts, I identified two fundamental modern workflows:
+
+1. **Programmatic AI Automation (Data-Driven Testing):** Learning from experts like *Matt Diggity*, the goal is to build multi-agent systems (using LLM APIs) that handle SERP scraping, extract entity gaps, and strictly enforce custom brand personas using an internal knowledge base. This guarantees high authority and hits Google's strict E-E-A-T guidelines.
+2. **AI-Assisted Human Editorial Frameworks:** Guided by insights from *Gael Breton*, successful scaling relies on using AI for 70% of the heavy lifting (outlines, programmatic briefs, intent sorting) while transforming traditional writers into Subject Matter Experts (SMEs) who edit, fact-check, and inject proprietary data to secure a high "Information Gain" score.
+
+### Repository Infrastructure Added
+* `/research/sources.md`: Curated index of the top 10 experts, including publication timelines, platform locations, and critical annotations.
+* `/research/youtube-transcripts/`: Processed data extracts mapping exact technical scripts and data points from industry-leading case studies.
+
+*Everything is structured to lay the groundwork for a highly actionable, scalable SEO execution playbook.*

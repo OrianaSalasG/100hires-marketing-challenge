@@ -1,0 +1,12 @@
+Author: Jake Ward
+Topic: The Programmatic SEO & AI Velocity Framework
+
+Content:
+"Most people use AI to write one generic article at a time. That is a massive waste of leverage. The real growth hack is combining Programmatic SEO with LLMs.
+
+My 3-step execution framework for content scale:
+1. Identifying Low-Competition Datasets: Instead of looking for generic high-volume keywords, I look for scalable semantic patterns (e.g., 'Alternative to [Competitor Name]' or '[Industry] template for [Niche]').
+2. Structuring the Database: I build a clean CSV mapping out the core variables for thousands of programmatic pages.
+3. Cold Prompting for Contextual Generation: I pipe this structured data directly into an LLM via API, forcing it to generate hyper-specific, unique sections for every single row rather than standard copy-paste content. 
+
+Velocity matters, but structural relevance wins."

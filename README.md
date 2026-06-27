@@ -45,56 +45,56 @@ I'm officially set up and look forward to the next stage of the project.
 
 ## Phase 2: Research & Data Collection (AI-Powered SEO)
 
-### 📂 What Was Collected & Organized
-Using automated extraction methods and analytical curation within the Cursor workspace, I gathered a high-signal dataset centered on scaling SEO content via AI without losing search authority. 
+### 📂 What I Collected & Organized
+To build this dataset, I independently structured my workflow inside Cursor to identify, extract, and clean high-signal information regarding AI-driven SEO. I focused entirely on actionable frameworks rather than generic theories. 
 
-The data is structured as follows:
-* **`research/sources.md`**: The master directory tracking source links, exact collection dates, and primary focus areas.
-* **`research/linkedin-posts/`**: Raw text files containing breakdown frameworks, prompt strategies, and algorithm analyses shared directly by practitioners.
-* **`research/youtube-transcripts/`**: Full textual transcriptions from over-the-shoulder tutorials, detailing tool stacks and data workflows.
+Here is how I organized the files I collected:
+* **`research/sources.md`**: I built this master directory to log the exact URLs, tracking dates, and core focus areas of my chosen sources.
+* **`research/linkedin-posts/`**: I manually curated and extracted text files containing breakdown frameworks, prompt strategies, and algorithm insights shared directly by top practitioners.
+* **`research/youtube-transcripts/`**: I pulled full text transcripts from over-the-shoulder tutorials, focusing specifically on their technical tool stacks and data automation workflows.
 
 ---
 
-### 🎯 Deep Dive: Why These 10 Experts & What Was Extracted
+### 🎯 My Strategic Justification: Why I Chose These 10 Experts
 
-To build a flawless Growth Marketing engine for 100Hires, I curated a panel of 10 specific experts. Here is the exact strategic justification for each source collected:
+I deliberately avoided standard Google search results. Instead, I handpicked these 10 specific experts because their combined insights create a balanced, high-velocity growth engine for 100Hires—combining massive scale with strict quality control.
 
-#### 1. Jake Ward (Programmatic SEO Workflows)
-* **What was collected:** Tactical guides on programmatic keyword research and automated page generation frameworks.
-* **Strategic Value:** He provides the operational blueprint to scale from 0 to 100,000+ monthly visits using AI-driven automation. Essential for understanding high-velocity growth.
+#### 1. Jake Ward
+* **What I collected:** His direct blueprints on programmatic keyword research and automated page generation.
+* **Why I chose him:** I selected him because he is the absolute authority on content velocity. His workflows prove we can scale from 0 to 100k+ monthly visits using AI without losing structural relevance.
 
-#### 2. Kevin Indig (Search Engine Evolution & AI Overviews)
-* **What was collected:** In-depth analyses of Google’s Core Algorithm updates and how search engines handle AI-generated layers.
-* **Strategic Value:** His data ensures our strategy is future-proof against Google's shifting parameters, preventing long-term traffic drops.
+#### 2. Kevin Indig
+* **What I collected:** His technical breakdown papers on Google’s Core Algorithm updates and AI Overviews (SGE).
+* **Why I chose him:** I need our strategy to be future-proof. I chose Kevin to understand how search engines process automated layers, ensuring the content we scale doesn't lose traffic down the road.
 
-#### 3. Bernard Huang (LLM Grading & Information Gain)
-* **What was collected:** Concept breakdowns on how semantic search engines and Large Language Models score content relevance.
-* **Strategic Value:** Teaches us how to avoid "generic AI fluff" by injecting unique data points that rank higher on modern search intent engines (Clearscope model).
+#### 3. Bernard Huang
+* **What I collected:** His conceptual frameworks on how Large Language Models (LLMs) grade content relevance and semantic density.
+* **Why I chose him:** I chose him because AI content can easily become repetitive and generic. His data teaches me how to inject "Information Gain" so our content scores perfectly on tools like Clearscope.
 
-#### 4. Lily Ray (E-E-A-T & Risk Management)
-* **What was collected:** Case studies detailing Google manual penalties on low-quality AI content farms.
-* **Strategic Value:** She acts as our primary guardrail. Her insights guarantee that our scaled content respects Google’s Experience, Expertise, Authoritativeness, and Trustworthiness guidelines.
+#### 4. Lily Ray
+* **What I collected:** Case studies and post-mortem analyses of websites heavily penalized by Google for low-quality AI automation.
+* **Why I chose her:** She acts as my strategic guardrail. I chose her to ensure that every single AI workflow I design strictly respects Google's E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness) guidelines.
 
-#### 5. Gael Breton (Practical ROI & Site Testing)
-* **What was collected:** Performance metrics and raw traffic data from live portfolio sites built exclusively with AI prompts.
-* **Strategic Value:** Provides empirical data—wins and losses. This gives us clear benchmarks of what works in real-world deployment.
+#### 5. Gael Breton
+* **What I collected:** Practical performance metrics, tool stacks, and live traffic data from his portfolio site experiments.
+* **Why I chose him:** I selected him because he shares raw, unfiltered ROI data. His insights give me real-world benchmarks of what actually happens when deploying AI content at scale.
 
-#### 6. Eli Schwartz (Product-Led SEO Metrics)
-* **What was collected:** Frameworks on aligning organic traffic directly with user acquisition and product signups.
-* **Strategic Value:** For a platform like 100Hires, traffic means nothing without conversions. Eli’s approach ensures our AI content drives actual business revenue.
+#### 6. Eli Schwartz
+* **What I collected:** Strategic frameworks on mapping organic traffic metrics directly to product user acquisition funnel stages.
+* **Why I chose him:** At 100Hires, vanity traffic means nothing without conversions. I chose Eli because his "Product-Led SEO" approach ensures my automated content drives actual product sign-ups.
 
-#### 7. Ross Hudgens (Human-in-the-Loop Editorial Workflows)
-* **What was collected:** Operational systems showing how 1 human editor can scale the output of 5+ AI content generation streams.
-* **Strategic Value:** Essential for resource optimization. He explains how to maintain premium brand authority while leveraging AI efficiency.
+#### 7. Ross Hudgens
+* **What I collected:** Standard Operating Procedures (SOPs) for the "Human-in-the-loop" editorial model.
+* **Why I chose him:** I chose him to solve the efficiency equation. His frameworks show me how a single growth marketer can leverage AI to scale output while maintaining high editorial standards.
 
-#### 8. Cyrus Shepard (CTR Optimization & User Behavior)
-* **What was collected:** Statistical experiments on how human users click and interact with AI-optimized titles and metadata.
-* **Strategic Value:** Optimization doesn't stop at ranking. Cyrus provides the data needed to maximize CTR (Click-Through Rate) once our AI content reaches page one.
+#### 8. Cyrus Shepard
+* **What I collected:** Data from his live experiments on Click-Through Rates (CTR) and user interactions with AI text.
+* **Why I chose him:** Getting to page one is only half the battle; people must click. I chose Cyrus to learn how to optimize AI-generated titles and meta descriptions for real human engagement.
 
-#### 9. Lidia Infante (International & Enterprise Scaling)
-* **What was collected:** Execution playbooks for localizing automated content engines across diverse geographic and linguistic SaaS markets.
-* **Strategic Value:** Helps 100Hires think globally, ensuring that our AI content production scaling frameworks can expand seamlessly across different regions.
+#### 9. Lidia Infante
+* **What I collected:** Execution playbooks for localizing and scaling automated content structures across international SaaS markets.
+* **Why I chose her:** I want to think globally. I selected Lidia to understand how to take a successful AI content framework and seamlessly adapt it to different regions as 100Hires expands.
 
-#### 10. Britney Muller (Machine Learning & Advanced Prompting)
-* **What was collected:** Technical documentation on training LLMs and engineering deep prompts for maximum context relevance.
-* **Strategic Value:** She bridges the gap between marketing and computer science, helping us utilize tools like Cursor and Claude at an advanced engineering level.
+#### 10. Britney Muller
+* **What I collected:** Advanced prompt engineering frameworks and machine learning documentation applied to SEO tasks.
+* **Why I chose her:** I chose her to maximize my technical edge. Her insights help me use tools like Cursor and Claude at an advanced engineering level, treating AI as a true co-pilot rather than a simple text generator.
